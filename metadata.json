@@ -1,0 +1,6 @@
+{
+  "name": "Vivekananda Central School — Mathematics Portal",
+  "description": "Academic mathematics study resource portal with interactive PDF viewer, real-time multi-tool annotations, pinch-to-zoom, and Supabase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
